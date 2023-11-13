@@ -1,0 +1,66 @@
+.AppWindow {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+/* 
+.centeredDrop {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%; 
+    color: #0083F2;
+    padding: 3rem;
+}
+
+.emptyDrop {
+    background: transparent;
+    border: 4px dotted #80C7E7;
+}
+
+.fullDrop {
+    background: #EDF7FC;
+    border: 4px solid #80C7E7;
+}
+
+.sourceLabel {
+    position: absolute;
+    top: 4%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    font-family: serif;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.dropCounter {
+    display: inline-block;
+    width: 100%; 
+    text-align: center;
+    font-family: sans;
+    font-size: 1rem;
+}
+
+.controlButton {
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 0.5rem;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.controlButton:disabled {
+    background-color: #cccccc;
+    color: white;
+    cursor: not-allowed;
+}
+
+.controlButton:hover:enabled {
+    background-color: #3e8e41;
+} */
